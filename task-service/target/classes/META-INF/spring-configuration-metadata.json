@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "by.itacademy.taskservice.config.properites.JWTProperty",
+      "sourceType": "by.itacademy.taskservice.config.properites.JWTProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.issuer",
+      "type": "java.lang.String",
+      "sourceType": "by.itacademy.taskservice.config.properites.JWTProperty"
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "by.itacademy.taskservice.config.properites.JWTProperty"
+    }
+  ],
+  "hints": []
+}
