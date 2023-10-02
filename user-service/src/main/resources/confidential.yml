@@ -4,8 +4,8 @@ spring:
   mail:
     host: smtp.mail.ru
     port: 465
-    username: taskmanager11@mail.ru
-    password: cn9XwnMke1TKG0KsNLpW
+    username: ***@mail.ru
+    password: ...
     properties:
       "mail.smtp.ssl.enable": true
       mail:
